@@ -4,7 +4,9 @@ Foundry Graphics is an imagined business for a freelance graphic designer. Here 
 
 <hr>
 
-# User Stories
+# User Experience (UX)
+
+## User Stories
 
 ### Home
 
@@ -25,8 +27,27 @@ Foundry Graphics is an imagined business for a freelance graphic designer. Here 
 
 ### Payment
 
-* Payment will be be simple and secure and will need an account for delivery purposes.
+* Payment will be be simple and secure and will need an account for delivery purposes. A basket area will also be needed if customers are going to be purchasing more than one item.
 
-# User Experience (UX)
+## Design
 
+* Typography
+    - I will be using Michroma for the company logo and Prompt for the main bulk of the text as it is nice and clean, and I would like the overall feel of the project to be sleek and professional.
+
+* Color Pallette
+    - This will be white, or slightly off white depending on how harsh the contrast ends up being with a dark grey for the logo and text. This will allow the artists work to pop with colour and not have the surroundings detract or distract from what the user should be focused on. The exception to this rule will be on the nav bar where the log in/sign up will be located.
+
+* Images
+    - As this is an imagined business I will be uses images from open source resources.
+
+### Wire Frames
+
+<hr>
+
+# Features
+
+* As mentioned previously there will be three main components for the user to interact with.
+    - User accounts - For tracking orders and storing customer information for distribution.
+    - Gallery and shop - Allowing visitors to browse and members to purchase designs.
+    - Commission Form - Allowing members to request a commission of a particular peice.
 
