@@ -51,3 +51,33 @@ Foundry Graphics is an imagined business for a freelance graphic designer. Here 
     - Gallery and shop - Allowing visitors to browse and members to purchase designs.
     - Commission Form - Allowing members to request a commission of a particular peice.
 
+<hr>
+
+# Technology
+
+## Languages
+
+* HTML
+* CSS
+* JavaScript
+* Python
+
+## Libraries and Frameworks
+
+* Django
+* Bootstrap
+* Google Fonts
+* Font Awesome
+
+<hr>
+
+# Testing
+
+## General
+
+## Bugs
+
+<hr>
+
+# Deployment
+
