@@ -10,7 +10,7 @@ Foundry Graphics is an imagined business for a freelance graphic designer. Here 
 
 ### Home
 
-* The landing page will be easy to navigate and give the user the option to browse the artist's work or get an estimate, consisting of two images with buttons, or act as buttons themselves. A small intorduction to the business and some customer feedback will also be present as well as the login/sign up functionality.
+* The landing page will be easy to navigate and provide the user the option to browse the artist's work. onsisting of an image with  a button. A small intorduction to the business will also be present. The Nav bar will contain quick links to the commission form and log in/sign up pages.
 
 * For both first time visitors and returning ones it will be easy to locate where they want to go on the site. First time users will be able to browse freely but will be asked to sign up to get a quote.
 
